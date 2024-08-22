@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\permisos\\validarsesionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\permisos\\validarsesionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\programacitas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\programacitas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|c:\\users\\diego\\source\\repos\\appointmentscheduler\\programacitas\\programacitas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C87C7-94A5-4FFF-9177-B4AC11529421}|ProgramaCitas\\ProgramaCitas.csproj|solutionrelative:programacitas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidarSesionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Permisos\\ValidarSesionAttribute.cs",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Permisos\\ValidarSesionAttribute.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Permisos\\ValidarSesionAttribute.cs",
+              "RelativeToolTip": "ProgramaCitas\\Permisos\\ValidarSesionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:24:40.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProgramaCitas\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T19:55:50.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProgramaCitas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T19:42:07.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "ProgramaCitas\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwBgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:32:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Views\\Acceso\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeToolTip": "ProgramaCitas\\Views\\Acceso\\Registrar.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:22:52.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProgramaCitas\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:32:50.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "ProgramaCitas\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T04:22:29.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgramaCitas.csproj",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\ProgramaCitas.csproj",
+              "RelativeDocumentMoniker": "ProgramaCitas\\ProgramaCitas.csproj",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\ProgramaCitas.csproj",
+              "RelativeToolTip": "ProgramaCitas\\ProgramaCitas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T18:33:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProgramaCitas\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:58:48.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Program.cs",
+              "RelativeToolTip": "ProgramaCitas\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:57:33.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProgramaCitas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AppointmentScheduler\\ProgramaCitas\\ProgramaCitas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProgramaCitas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T18:29:43.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
